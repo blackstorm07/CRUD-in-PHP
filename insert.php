@@ -48,7 +48,7 @@ div {
 </style>
 <body>
 <div>
-  <form action="#" method="Post">
+  <form action="insert.php" method="Post">
     <label for="fname">First Name</label>
     <input type="text" id="fname" name="firstname" placeholder="Your name.." required>
 
